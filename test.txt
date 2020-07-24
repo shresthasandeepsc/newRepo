@@ -1,0 +1,8 @@
+this is my first text file for git tutorial.
+I have added these files in first edit.
+I have added these files in first edit.
+I have added these files in first edit.
+I have added these files in first edit.
+I have changed these files in second edit.
+I have changed these files in second edit.
+I have changed these files in second edit.
