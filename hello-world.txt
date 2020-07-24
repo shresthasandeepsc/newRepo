@@ -1,0 +1,7 @@
+Please enter your name in this document to prove you have completed the exercise. You will need to commit your changes and push them to the "hello-world" branch. Please feel free to add additional contents below if you wish to do so.
+Make sure that you use a meaningful commit message once you are done.
+
+Format => "I am Sandeep Shrestha , hello world!"
+
+Enter below the line.
+=====================
